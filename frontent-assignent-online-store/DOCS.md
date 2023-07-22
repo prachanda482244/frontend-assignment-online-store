@@ -33,18 +33,25 @@ To run the application locally on your machine, follow these steps:
    git clone https://github.com/your-username/online-store.git
    ```
 
-**_1.Install Dependencies_**
+**3.Install Dependencies**
 Change your working directory to the project folder:
-<u>cd online-store</u>
 
-### 2.Install the project dependencies using npm or yarn:
+```bash
+cd online-store
+```
 
-_npm install or yarn install_
+**4.Install the project dependencies using npm or yarn:**
 
-**_2.Start the Development Server_**
+```bash
+npm install or yarn install
+```
+
+**5.Start the Development Server**
 
 ### Run the following command to start the development server:
 
+```bash
 _npm start or yarn start_
+```
 
 The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000).
