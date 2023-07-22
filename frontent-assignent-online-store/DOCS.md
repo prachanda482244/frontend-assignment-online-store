@@ -21,29 +21,30 @@ This project uses the following technologies:
 
 To run the application locally on your machine, follow these steps:
 
-1. **Prerequisites**
+1.  **Prerequisites**
 
-   - Node.js: Ensure you have Node.js installed on your system. You can download it from the official website (https://nodejs.org) and follow the installation instructions.
+    - Node.js: Ensure you have Node.js installed on your system. You can download it from the official website (https://nodejs.org) and follow the installation instructions.
 
-2. **Clone the Repository**
+2.  **Clone the Repository**
 
-   Clone the project repository using Git:
+    Clone the project repository using Git:
 
-   ```bash
-   git clone https://github.com/your-username/online-store.git
-   ```
+    ```bash
+    git clone https://github.com/your-username/online-store.git
+    ```
 
-3. **Install Dependencies**
-   Change your working directory to the project folder:
+3.  **Install Dependencies**
+    Change your working directory to the project folder:
+
+        ```bash
+
+    cd online-store
+    ```
+
+4.  **Install the project dependencies using npm or yarn:**
 
 ```bash
-cd online-store
-```
-
-4. **Install the project dependencies using npm or yarn:**
-
-```bash
-npm install or yarn install
+  npm install or yarn install
 ```
 
 5. **Start the Development Server**
@@ -51,7 +52,7 @@ npm install or yarn install
 ### Run the following command to start the development server:
 
 ```bash
-_npm start or yarn start_
+ _npm start or yarn start_
 ```
 
 The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000).
