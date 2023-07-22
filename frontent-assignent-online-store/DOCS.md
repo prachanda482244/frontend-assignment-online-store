@@ -52,7 +52,7 @@ To run the application locally on your machine, follow these steps:
 
     ```bash
 
-_npm start or yarn start_
+npm start or yarn start
 ```
 
-The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000).
+The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000)
