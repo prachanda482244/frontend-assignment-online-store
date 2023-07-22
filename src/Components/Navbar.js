@@ -17,9 +17,6 @@ const Navbar = () => {
                 <div className="search">
                     <FormikSearchBar />
                 </div>
-                <div className="btns">
-                    <NavLink className='login-btn' to='/login'>Login</NavLink>
-                </div>
             </nav>
             <div className='w-full border-[#e5e7eb]-200 border-2 mt-4'></div>
         </header>
