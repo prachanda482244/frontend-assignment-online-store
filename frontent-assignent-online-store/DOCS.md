@@ -48,7 +48,7 @@ To run the application locally on your machine, follow these steps:
 
 5.  **Start the Development Server:**
 
-### Run the following command
+**Run the following command**
 
     ```bash
     npm start or yarn start
