@@ -36,23 +36,23 @@ To run the application locally on your machine, follow these steps:
 3.  **Install Dependencies**
     Change your working directory to the project folder:
 
-        ```bash
-
+    ```bash
     cd online-store
     ```
 
 4.  **Install the project dependencies using npm or yarn:**
 
-```bash
-  npm install or yarn install
-```
+    ```bash
+    npm install or yarn install
+    ```
 
-5. **Start the Development Server**
+5.  **Start the Development Server**
 
 ### Run the following command to start the development server:
 
-```bash
- _npm start or yarn start_
+    ```bash
+
+_npm start or yarn start_
 ```
 
 The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000).
