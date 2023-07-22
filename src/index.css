@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    .login-btn{
+        @apply bg-cyan-400 text-white px-5 py-3 mx-2 rounded-lg active:bg-cyan-900  hover:bg-cyan-600 
+    }
+    .search-bar{
+        @apply flex items-center flex-col border-2 border-emerald-600 p-2 md:w-[60vw]  m-auto text-center font-thin uppercase rounded-lg
+    }
+    .card{
+        @apply flex flex-col align-middle justify-center border-2 border-purple-800 rounded-lg p-3 w-3/4 md:w-80 mt-3
+    }
+    .card-details{
+        @apply flex flex-col items-center justify-center border-2 border-zinc-400 rounded-md md:h-24 p-4 mt-2
+    }
+    .btn{
+        @apply  px-2 bg-blue-400 text-white mb-2 ml-2
+    }
+
+    .box{
+        @apply w-[80vw] h-[80vh] md:border-2 md:border-red-900 mt-3 rounded-md md:flex justify-around 
+    }
+    .box-details{
+        @apply  w-1/2 font-light flex flex-col justify-around
+    }
+    .cart-btn{
+        @apply m-2 py-2 px-4 hover:bg-yellow-600
+    }
+}
