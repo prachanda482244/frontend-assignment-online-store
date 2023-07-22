@@ -46,15 +46,12 @@ To run the application locally on your machine, follow these steps:
     npm install or yarn install
     ```
 
-5.  **Start the Development Server**
+5.  **Start the Development Server:**
 
-**_Run the following command to start the development server_**
+### Run the following command
 
     ```bash
-
-npm start or yarn start
-
-```
+    npm start or yarn start
+    ```
 
 The application should now be running locally. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000)
-```
